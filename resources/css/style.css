@@ -1,7 +1,15 @@
-header{
-    background-color:black;
+a{
+    font-family: Verdana;
+    font-weight: normal;
+    color:aquamarine;
+    size:16px;
+}
+
+body{
+    background-color: black;
     text-align: center;
 }
+
 
 h1{
     font-family: Verdana;
@@ -10,7 +18,7 @@ h1{
     font-size: 50px;
 }
 
-a{
-    color:aquamarine;
-    size:16px;
+.video-container{
+    display: flex; 
+    justify-content: center;
 }
