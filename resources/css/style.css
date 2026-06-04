@@ -10,12 +10,31 @@ body{
     text-align: center;
 }
 
-
 h1{
     font-family: Verdana;
     font-weight: normal;
     color:white;
     font-size: 50px;
+}
+
+h2{
+    text-align: center;
+    font-family: Verdana;
+    font-weight: 300;
+    color:white;
+    font-size: 42px;
+}
+
+p{
+    font-family: Verdana;
+    size: 21px;
+    color:gray;
+}
+
+.image-container{
+    display: flex; 
+    justify-content: center;
+    margin-bottom:30px;
 }
 
 .video-container{
